@@ -7,6 +7,7 @@ namespace DANG_NHAP
 {
     public partial class Dang_nhap : Form
     {
+        //Check 1
         public Dang_nhap()
         {
             InitializeComponent();
