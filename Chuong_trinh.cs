@@ -18,7 +18,8 @@ namespace KTPMUD
             InitializeComponent();
         }
 
-
+        //Hoangf Anh Ngu deo chiu duoc
+        // :((
         private void btnDangxuat_Click(object sender, EventArgs e)
         {
             this.Close();
